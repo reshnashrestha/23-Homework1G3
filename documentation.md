@@ -17,5 +17,5 @@ Quantum subtraction, which is effectively the opposite of addition, is a compone
 #### 4.Algorithm for Quantum Division:
 We should use the quantum division algorithm, which will differ based on the particular issue we are trying to solve. We can utilize quantum versions of classical algorithms like long division for simple integer division in this case.
 #### 5. Measurement and processing afterward:
-We should check for our qubits' final quantum states. We tried to receive the outcome of the quantum division as classical bits from these observations. It might be necessary to perform further post-processing to properly interpret the results.
+We should check for our qubits' final quantum states. We tried to receive the outcome of the quantum division as classical bits from these observations. It might be necessary to perform further post-processing to properly interpret the results of division.
 
